@@ -1,2 +1,5 @@
 This is file was created after the init
 so it needs to be pulled to the local repo
+This is the local repo and we are making some changes
+This seems very easy so far!!!
+Good luck!!!
