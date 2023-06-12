@@ -3,3 +3,6 @@ so it needs to be pulled to the local repo
 This is the local repo and we are making some changes
 This seems very easy so far!!!
 Good luck!!!
+
+Thi is done after the Folder3 folder and the txt file were added to the Remote repo
+Lets see what happens.
