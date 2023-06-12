@@ -1,0 +1,4 @@
+This is new feature folder.
+When you create a folder, you just key in the '/' at the end of the folder namee and git is 
+smart enough to figure out that you are creating a folder. then you create the txt file.
+Nice!!! 
